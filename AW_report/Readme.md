@@ -2,10 +2,15 @@
 ![1](https://github.com/souptik-d/Portfolio_projects/assets/128696109/208e2b61-952d-4415-b179-031b657da762)
 
 
+
+
 ![2](https://github.com/souptik-d/Portfolio_projects/assets/128696109/e9492992-0670-48c6-94b8-37fb37ef66ea)
 
 
+
+
 ![3](https://github.com/souptik-d/Portfolio_projects/assets/128696109/52c4fb81-4a40-49f9-a9b1-792e21bb543a)
+
 
 ## Data Used
 **Data:** Adventure Works Sales Data provided on Kaggle for public use. [Link](https://www.kaggle.com/datasets/ukveteran/adventure-works?select=AdventureWorks_Customers.csv)
