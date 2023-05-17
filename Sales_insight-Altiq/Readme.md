@@ -50,8 +50,7 @@ By providing a clear, visual depiction of the data, the sales director may avoid
 *	**E-commerce** gives the highest revenue contribution by customer type
 *	**Surat** gives highest profit % by market
 *	**Central Market** contributes to more Revenue
-*	Category wise Bikes had the highest return rate at 3.04% and in this category Road 650 Red 52 showed the highest return rate of 14.81% followed by Road 650 Red 48 at 8.57%. 
-*	As the Order Rate of these above-mentioned products are low and the Return Rate is too high . These products can be discontinued to improve the topline.
+
 
 
 
