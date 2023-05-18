@@ -1,6 +1,6 @@
 # Exploratory Data Analysis on an Electronics Store (Sales & Buy patterns)
 Exploratory Data Analysis and Data Visualization of an Electronics Store using Python.
-
+![eda s](https://github.com/souptik-d/Portfolio_projects/assets/128696109/0b06ba05-3b6e-4b4e-a87d-a93887d2688c)
 
 
 The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. It is a 12 months sales data and I have to analyse it to find patterns of sales and buys.
