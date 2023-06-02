@@ -8,7 +8,7 @@ I have analysed the 12 months data-set and provided the insights below.
 *	**Framework**- Jupyter Notebook
 *	**Language**- Python
 *	**Libraries**- Numpy, Panda
-*	**Plot Lib**- Seaborn, Matplot
+*	**Plot Lib**- Seaborn, Matplotlib
 
 **Dataset -** [Data-set Link](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
 
